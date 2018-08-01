@@ -1,0 +1,1 @@
+# dbPatterns-localStorage
